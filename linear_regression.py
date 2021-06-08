@@ -2,7 +2,6 @@ from typing import TypeVar, Union, Tuple, Optional
 
 import numpy as np
 from numpy import array
-import math
 
 
 class LinearRegression(object):
